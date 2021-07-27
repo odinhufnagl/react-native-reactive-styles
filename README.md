@@ -11,3 +11,5 @@ StyleSheet.create({property1: {}, property2: {}})
 }
 
 props structured as prop={styles().property1}
+
+Notice: You must run npm install on the folder to get it to work in your project
